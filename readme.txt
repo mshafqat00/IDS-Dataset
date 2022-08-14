@@ -1,8 +1,20 @@
 Following Dataset is developed for ML-based Intrusion Detection Systems (IDSs) 
 Dataset contains 5days of different Traffic; Normal plus Attack Traffic
 
+5 Files of Normal traffic which is based on daily activites
+
 Attack Traffic: DoS, DDoS, Portscan, Brute Force and Web Attack
-5File of Normal traffic which is based on daily activites 
+[List of Tools used for generating attacks
+1- For DoS (HULK, GoldenEye, SlowLoris, SlowHTTPTest, InviteFlood, iaxflood, thc-ssl-dos)
+2- For DDoS (SynFlood, LOIC, HOIC, PyLoris, Tor's Hammer, Davoset)
+3-Brute Force (Patator)
+4-Portscan (Nmap)
+5-Web Attack (BurpSuite)
+
+ 
+
+Feature Extraction Tool
+CIC_FLOW_METER 
 
 List of Features that dataset contains are
 
